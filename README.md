@@ -25,3 +25,8 @@ python3
 '1.0'
 >>> 
 ```
+
+Here the output correction :
+
+![Capture d’écran 2023-05-20 à 10 53 11](https://github.com/rafikhdj/python_cpp_2023/assets/26821093/1b024d15-3d1a-4aab-aacb-94197c2d41c2)
+
